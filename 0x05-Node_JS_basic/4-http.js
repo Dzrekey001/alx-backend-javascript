@@ -1,4 +1,3 @@
-
 const http = require('http');
 
 const PORT = 1245;
@@ -19,4 +18,3 @@ app.listen(PORT, HOST, () => {
 });
 
 module.exports = app;
-
