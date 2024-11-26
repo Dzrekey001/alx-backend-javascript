@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 /**
- * Counts the students in a CSV data file.
+ * Counts the students in a CSV data files.
  * @param {String} dataPath The path to the CSV data file.
  */
 const countStudents = (dataPath) => new Promise((resolve, reject) => {
